@@ -2,6 +2,7 @@
 Java MVC Blackjack Application
 
 Functionalities That Were Updated for Deliverable 3:
+
 Main Functionality-
 The main functionality that was implemented for deliverable 3 was the main game function. The blackjack game is now able to be played. The player can play blackjack against the dealer and can choose to hit, stay, exit or begin a new game. The game is run through the BlackJackModel class that takes in 2 players(Player and Dealer), their hands and a deck.
 
